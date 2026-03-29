@@ -1,5 +1,5 @@
 
-Capstone Project title: Analysisof Heatwave and mortality in Europe  
+Capstone Project title: Analysis of Heatwave and mortality in Europe  
 
 This capstone project examines the relationship between heatwaves and mortality in Europe between 2000 and 2023. It combines two datasets, i.e. i) a gridded climate dataset of monthly high UTCI- Universal Thermal Climate Index- days as an indicator of heat stress, and ii) Eurostat weekly mortality data for European countries.  High UTCI days represent the number of days experiencing significant thermal stress, ranging from moderate (26°C–32°C) to extreme (>46°C), based on the Universal Thermal Climate Index. This index calculates human heat exchange using air temperature, humidity, wind, and radiation. The project first analyzes how heatwave conditions evolved across Europe over time, including annual, summer, and spatial patterns. It then estimates excess mortality by comparing observed weekly deaths with a historical baseline and focuses on summer weeks to identify mortality peaks during major heatwave years. By bringing the two datasets together, this project aims to show whether years with stronger summer heat stress were also associated with higher mortality burdens across Europe.
 
