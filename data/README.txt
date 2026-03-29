@@ -1,1 +1,3 @@
-This is the folder where all the raw data, cleaned data, and processed data will be stored.
+Data description
+
+This project uses two main datasets. The first is the Eurostat weekly mortality dataset, which provides country-level weekly death counts across Europe for the period 2000–2023. These data were used to estimate baseline mortality and calculate excess deaths, especially during summer weeks associated with heatwave events. The second dataset is a gridded NetCDF file of monthly high UTCI days, which captures the number of days with high heat stress conditions across Europe. UTCI, or the Universal Thermal Climate Index, is a widely used indicator of human thermal stress because it reflects not only temperature but also humidity, wind, and radiation. Together, these datasets make it possible to compare heat exposure and mortality patterns across European countries and over time.
